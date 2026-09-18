@@ -30,16 +30,6 @@ Busco mi primera oportunidad laboral en el sector IT para continuar desarrolland
 - Metodologías Ágiles
 - Análisis Funcional
 
-## 📂 Proyectos destacados
-
-### Q'SALE
-Plataforma de eventos, promociones y comercios desarrollada como proyecto académico de análisis y diseño de sistemas.
-
-### Torneo de Tenis
-Base de datos para gestión de participantes, categorías e inscripciones.
-
-### Veterinaria
-Sistema de gestión de pacientes y tratamientos utilizando MySQL.
 
 ## 📫 Contacto
 
